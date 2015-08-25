@@ -1,6 +1,6 @@
 hello hi howdy
 i'm testing this out
-because dude is starting Python
+because dude is starting `Python`
 and it's confusing
 but it's okay
 
@@ -16,17 +16,21 @@ fix me!
 the end.
 
 HERE ARE MORE REVISIONS
+=======================
 I just made an appt with a gyno heh
-gross
+_gross_
 but whatever, necessary problems, yah?
 that way I can be preg
 and you will swell.
 This is work-appropriate conversations, yah?
 
 THIRD REVISIONS
-what is a branch?
+===============
+what is a *branch?*
 and how do we do that?
 
+SHANES ANSWER
+=============
 A branch is a duplicate of the repository, and you can make new commits to it without changing the original. 
 Right now we are working on the main branch, called 'master'. If we create a new branch, it will copy what we 
 have at the moment, and switch us to the other branch. We can work as much as we want in the other branch, and
@@ -36,3 +40,7 @@ have to specify whether you are committing to 'master' or your branch.
 
 Also the reason you don't have pretty colors is because this is a plain text file, so 
 there isn't any syntax highlighting. If this was code, you'd see plenty of fun colors. Like with Python, remember?
+
+*edit* I added some simple changes that should let this file be interpreted as Markdown. Markdown is a simple 
+formatting language that's basically plain text. But now if you open this file in Sublime, hopefully you 
+should see a few colors. Tell me if it works!
