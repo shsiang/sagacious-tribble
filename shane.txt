@@ -26,3 +26,13 @@ This is work-appropriate conversations, yah?
 THIRD REVISIONS
 what is a branch?
 and how do we do that?
+
+A branch is a duplicate of the repository, and you can make new commits to it without changing the original. 
+Right now we are working on the main branch, called 'master'. If we create a new branch, it will copy what we 
+have at the moment, and switch us to the other branch. We can work as much as we want in the other branch, and
+master won't change at all. We can always switch between the two branches to see the difference between them.
+Try making a new branch, name it whatever you like, and see what happens! Note that when you make commits, you
+have to specify whether you are committing to 'master' or your branch.
+
+Also the reason you don't have pretty colors is because this is a plain text file, so 
+there isn't any syntax highlighting. If this was code, you'd see plenty of fun colors. Like with Python, remember?
