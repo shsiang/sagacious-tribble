@@ -6,6 +6,7 @@ but it's okay
 
 I AM A GIT MASTER!!
 ===================
+(if this works, Steph just bolded this^)
 
 I think I remember Andrew using Sublime on his computer
 because of the scroll thingy at the right side of the editor
@@ -45,3 +46,5 @@ there isn't any syntax highlighting. If this was code, you'd see plenty of fun c
 *edit* I added some simple changes that should let this file be interpreted as Markdown. Markdown is a simple 
 formatting language that's basically plain text. But now if you open this file in Sublime, hopefully you 
 should see a few colors. Tell me if it works!
+
+I'm testing this out from branch_steph!
